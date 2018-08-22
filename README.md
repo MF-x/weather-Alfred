@@ -1,7 +1,7 @@
 # weather-Alfred
 Weather Inquiry by Alfred
 
-If you want to use this project，you should do somethings.
+If you want to use this project，you should do something.
 
 First, download this porojct and double click the downloaded "weather.alfredworkflow" file to install.
 
