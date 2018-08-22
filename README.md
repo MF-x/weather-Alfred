@@ -9,8 +9,11 @@ Second, sign in [和风天气](https://www.heweather.com), gain you api-key.
 
 Third, open Alfred and find 天气, change API_KEY in weather.py.
 
-Demo:
 
-![](./default.png)
-![](./city.png)
-![](./ip.png)
+
+
+## Demo:
+
+>>>>>>![](./default.png)
+>>>>>>![](./city.png)
+>>>>>>![](./ip.png)
